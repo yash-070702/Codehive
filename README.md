@@ -1,12 +1,12 @@
 # 🚀 CodeHive
 
-[![CodeHive - Live](https://img.shields.io/badge/CodeHive-Live-blue)](https://codehive.vercel.app)  
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![CodeHive - Live](https://img.shields.io/badge/CodeHive-Live-blue)](codehive-yash-aggarwal.vercel.app)  
+
 
 > A next-generation Q&A platform for developers.  
 > Inspired by Stack Overflow, supercharged with modern tech and AI capabilities.
 
-![Homepage Screenshot](https://link-to-your-screenshot-image.png)
+![Homepage Screenshot](https://github.com/yash-070702/Codehive/blob/main/assets/homepage-screenshot.png)
 
 ---
 
