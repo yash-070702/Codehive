@@ -1,6 +1,6 @@
 # 🚀 CodeHive
 
-[![CodeHive - Live](https://img.shields.io/badge/CodeHive-Live-blue)](codehive-yash-aggarwal.vercel.app)  
+[![CodeHive - Live](codehive-yash-aggarwal.vercel.app)  
 
 
 > A next-generation Q&A platform for developers.  
